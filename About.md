@@ -6,6 +6,8 @@ Features:
   Streaming using FastAPI and Streamlit
 
 
+Demo:
+
 ![Screenshot 2024-01-29 163745](https://github.com/Pulkit-g03/Youtube-Thumbnail-Sentiment-Analyzer/assets/135456238/301cb380-ba47-4928-b27e-6474b41aee3d)
 
 Technologies Used:
